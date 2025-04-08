@@ -1,12 +1,26 @@
-# React + Vite
+# Interactive Todo List with Categories
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an interactive to-do list application built with React. The app allows users to add tasks, categorize them, and filter tasks based on categories. It also includes the ability to delete tasks.
 
-Currently, two official plugins are available:
+![Todo App Screenshot](./public/screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- **Add Tasks**: Users can add tasks to the to-do list with the option to select a category (Work, Personal, Shopping).
+- **Filter by Category**: Users can filter tasks by category or view all tasks.
+- **Delete Tasks**: Users can remove tasks from the list.
+- **Responsive UI**: The app has a clean, modern UI built using Tailwind CSS.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Technologies Used
+
+- **React**: A JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for styling.
+- **Lucide Icons**: A set of open-source icons used in the app.
+
+## Setup Instructions
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/interactive-todo-list.git
+cd interactive-todo-list

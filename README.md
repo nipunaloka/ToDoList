@@ -24,3 +24,14 @@ This is an interactive to-do list application built with React. The app allows u
 ```bash
 git clone https://github.com/your-username/interactive-todo-list.git
 cd interactive-todo-list
+```
+### 2. Install dependencies: Install the necessary dependencies using npm:
+
+```bash
+npm install
+```
+### 3. Run the project: Start the development server:
+
+```bash
+npm run dev
+```

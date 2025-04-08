@@ -38,7 +38,7 @@ function App() {
     <div className="min-h-screen bg-gradient-to-br from-purple-100 to-blue-100 py-12 px-4">
       <div className="max-w-2xl mx-auto">
         <h1 className="text-3xl font-bold text-gray-800 mb-8 text-center">
-          Interactive Todo List
+          Todo List
         </h1>
 
         <TodoInput

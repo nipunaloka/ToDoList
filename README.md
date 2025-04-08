@@ -2,7 +2,7 @@
 
 This is an interactive to-do list application built with React. The app allows users to add tasks, categorize them, and filter tasks based on categories. It also includes the ability to delete tasks.
 
-![Todo App Screenshot](./public/screenshot.png)
+![Todo App Screenshot](image.PNG)
 
 ## Features
 
